@@ -3,6 +3,6 @@
 
 This repository contains details for my session at Data Hack Summit, 2019 for humans.
 
-## [Slides](https://docs.google.com/presentation/d/1umwl2zW9Y66Hv6pMp6OyKDUTjwBfKqy4/edit#slide=id.p1)
+## [Slides](https://docs.google.com/presentation/d/1YXdQN5oo1GalFNYcRTN78IdONvXE_4RUaEZC06dRoCo/edit#slide=id.p1)
 
 ## [Colab link](https://colab.research.google.com/drive/1xa9BfTz9uMPKZRZdHpqjj0fKTRp_CoFN) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xa9BfTz9uMPKZRZdHpqjj0fKTRp_CoFN)
