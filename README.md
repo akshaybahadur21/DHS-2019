@@ -9,6 +9,8 @@ This repository contains details for my session at Data Hack Summit, 2019 for hu
 
 ## [Sign Language Petition](http://bit.ly/isl-petition)
 
+## [Session Link](https://www.analyticsvidhya.com/datahack-summit-2019/schedule/hack-session-haptic-learning-inferring-anatomical-features-using-deep-networks/)
+
 ## [Tweet](https://twitter.com/AnalyticsVidhya/status/1194873977367191552)
 
 ## [LinkedIn mention](https://www.linkedin.com/posts/analytics-vidhya_dhs2019-hacksession-apps-activity-6600640229059715073-nlET)
